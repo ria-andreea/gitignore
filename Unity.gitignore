@@ -58,6 +58,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Gimp
+.gimp
+
 # Crashlytics generated file
 crashlytics-build.properties
 
